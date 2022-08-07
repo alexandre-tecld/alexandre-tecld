@@ -17,3 +17,4 @@
 - docker
 - git
 - slack
+- netdata, grafana e visualizer
