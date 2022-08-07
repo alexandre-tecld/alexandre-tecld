@@ -5,10 +5,15 @@
 -->
 : Skills
 
-- Amazon Web Service Jr
-- DevOps
-- CodeBuilds Aws
-- Amazenamento Aws
-- LightSail Aws
+-Amazon Web Service
+- Iam
+- Lightsail 
+- Ec2
+- CodeBuilds
+- Amazenamento 
 
-
+-Devops
+- Jenkins
+- docker
+- git
+- slack
